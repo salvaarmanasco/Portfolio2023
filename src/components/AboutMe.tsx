@@ -58,7 +58,7 @@ const AboutMe = () => {
           <div className="relative w-60">
             <img
               className="mask mask-squircle w-full inset-0 opacity-25 bg-opacity-70  transition-opacity duration-300 group-hover:opacity-100"
-              src="../../public/profile.png"
+              src="https://res.cloudinary.com/dxvflpraz/image/upload/v1693413488/hu5gi0wgghof62uvcvsf.png"
               alt="Profile"
             />
           </div>
