@@ -1,4 +1,5 @@
-import { BsLinkedin, BsGithub } from "react-icons/bs";
+import pkg from "react-icons/bs/index";
+const { BsLinkedin, BsGithub } = pkg;
 
 const Footer = () => {
   return (

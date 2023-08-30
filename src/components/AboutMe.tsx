@@ -1,4 +1,5 @@
-import { AiOutlineThunderbolt } from "react-icons/ai";
+import pkg from "react-icons/gi/index";
+const { GiThunderball } = pkg;
 
 const AboutMe = () => {
   return (
@@ -20,35 +21,35 @@ const AboutMe = () => {
           </p>
           <div className="grid grid-cols-3 gap-8 mt-10">
             <div className="flex align-middle items-center">
-              <AiOutlineThunderbolt />
+              <GiThunderball />
               <p>Javascript</p>
             </div>
             <div className="flex align-middle items-center ">
-              <AiOutlineThunderbolt />
+              <GiThunderball />
               <p>React</p>
             </div>
             <div className="flex align-middle items-center">
-              <AiOutlineThunderbolt />
+              <GiThunderball />
               <p>Typescript</p>
             </div>
             <div className="flex align-middle items-center">
-              <AiOutlineThunderbolt />
+              <GiThunderball />
               <p>Next</p>
             </div>
             <div className="flex align-middle items-center ">
-              <AiOutlineThunderbolt />
+              <GiThunderball />
               <p>Node</p>
             </div>
             <div className="flex align-middle items-center ">
-              <AiOutlineThunderbolt />
+              <GiThunderball />
               <p>PostgreSQL/MySQL</p>
             </div>
             <div className="flex align-middle items-center ">
-              <AiOutlineThunderbolt />
+              <GiThunderball />
               <p>Tailwind</p>
             </div>
             <div className="flex align-middle items-center">
-              <AiOutlineThunderbolt />
+              <GiThunderball />
               <p>Astro</p>
             </div>
           </div>
