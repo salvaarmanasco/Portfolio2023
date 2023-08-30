@@ -8,7 +8,7 @@ const Card = () => {
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
-            <GiHamburger />
+            <GiHamburger className="w-6 h-6 mt-2" />
           </label>
           <ul
             tabIndex={0}
@@ -53,7 +53,7 @@ const Card = () => {
       </div>
       <div className="navbar-center"></div>
       <div className="navbar-end hidden lg:flex">
-        <ul className="menu menu-horizontal px-1">
+        <ul className="menu menu-horizontal px-1 text-Pwhite">
           <li>
             <Link
               activeClass="active"
@@ -61,6 +61,7 @@ const Card = () => {
               duration={600}
               spy={true}
               smooth={true}
+              className="hover:text-PGreen3"
             >
               01. About Me
             </Link>
@@ -72,6 +73,7 @@ const Card = () => {
               duration={600}
               spy={true}
               smooth={true}
+              className="hover:text-PGreen3"
             >
               02. Recent Projects
             </Link>
@@ -83,6 +85,7 @@ const Card = () => {
               duration={600}
               spy={true}
               smooth={true}
+              className="hover:text-PGreen3"
             >
               03. Get In Touch
             </Link>
