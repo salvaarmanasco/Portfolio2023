@@ -9,7 +9,7 @@ module.exports = {
         PGreen: "#97d8c4",
         PGreen2: "#7CA8A0",
         PWhite: "#eff2f1",
-        POrange: "#f4b942",
+        PGreen3: "#3ee95b",
       },
     },
   },

@@ -3,7 +3,7 @@ const { BsLinkedin, BsGithub } = pkg;
 
 const Footer = () => {
   return (
-    <footer className="footer footer-center pt-10 pb-5 bg-base-200 text-base-content rounded">
+    <footer className="footer footer-center pt-10 pb-5 bg-[#191716] rounded">
       <div>
         <div className="grid grid-flow-col gap-4">
           <a href="https://www.linkedin.com/in/salvador-armanasco-catalin-18b045205/">

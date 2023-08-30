@@ -5,7 +5,7 @@ const AboutMe = () => {
   return (
     <>
       <div className="flex justify-center" id="aboutme">
-        <div className="divider w-[80%] text-POrange">
+        <div className="divider w-[80%] text-PGreen3">
           <p>01.</p>
           <p>About me</p>
         </div>
@@ -58,7 +58,7 @@ const AboutMe = () => {
           <div className="relative w-60">
             <img
               className="mask mask-squircle w-full inset-0 opacity-25 bg-opacity-70  transition-opacity duration-300 group-hover:opacity-100"
-              src="https://res.cloudinary.com/dxvflpraz/image/upload/v1693413488/hu5gi0wgghof62uvcvsf.png"
+              src="https://res.cloudinary.com/dxvflpraz/image/upload/v1693419208/gz6m3opp81p4ykxwftjp.png"
               alt="Profile"
             />
           </div>

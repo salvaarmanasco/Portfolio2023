@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <>
       <div className="flex justify-center" id="projects">
-        <div className="divider w-[80%] text-POrange">
+        <div className="divider w-[80%] text-PGreen3">
           <p>02.</p>
           <p>Recent Projects</p>
         </div>

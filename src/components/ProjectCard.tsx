@@ -15,7 +15,7 @@ const ProjectCard = ({ image, imageAlt, description, link }: Props) => {
         <h2 className="card-title text-PWhite">{imageAlt}</h2>
         <p className="text-PWhite">{description}</p>
         <div className="card-actions justify-end">
-          <button className="btn border-POrange text-PWhite bg-POrange hover:bg-PWhite hover:text-POrange">
+          <button className="btn border-PGreen3 text-PWhite bg-PGreen3 hover:bg-PWhite hover:text-PGreen3">
             <a href={link}>Visit</a>
           </button>
         </div>
