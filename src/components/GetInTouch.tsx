@@ -11,7 +11,7 @@ const GetInTouch = () => {
         <h1 className="text-[30px] md:text-[50px] font-bold text-PWhite">
           Get In Touch
         </h1>
-        <p className="text-PGreen3 max-w-3xl text-center mt-5">
+        <p className="text-PGreen3 max-w-3xl text-center mt-5 w-4/6">
           I'm currently looking for any new opportunities, my inbox is always
           open. Whether you have a question or just want to say hi, I'll try my
           best to get back to you!

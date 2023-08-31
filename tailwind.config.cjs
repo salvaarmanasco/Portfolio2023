@@ -3,6 +3,9 @@ module.exports = {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
   theme: {
     extend: {
+      screens: {
+        xxl: 1400,
+      },
       colors: {
         PBlue: "#4059ad",
         PBlueGray: "#6b9ac4",

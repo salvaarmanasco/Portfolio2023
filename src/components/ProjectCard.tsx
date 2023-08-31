@@ -7,7 +7,7 @@ interface Props {
 
 const ProjectCard = ({ image, imageAlt, description, link }: Props) => {
   return (
-    <div className="card w-96 bg-base-100 shadow-xl image-full ">
+    <div className="card w-5/6 sm:w-96 bg-base-100 shadow-xl image-full ">
       <figure>
         <img src={image} alt={imageAlt} />
       </figure>
