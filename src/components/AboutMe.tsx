@@ -19,8 +19,8 @@ const AboutMe = () => {
             committing myself and focusing on every little detail. Here are a
             few technologies I've been working with recently:
           </p>
-          <div className="grid grid-cols-3 gap-8 mt-10">
-            <div className="flex align-middle items-center">
+          <div className="grid grid-cols-2 md:grid-cols-3 gap-8 mt-10">
+            <div className="flex align-middle items-center ">
               <GiThunderball />
               <p>Javascript</p>
             </div>
@@ -42,7 +42,7 @@ const AboutMe = () => {
             </div>
             <div className="flex align-middle items-center ">
               <GiThunderball />
-              <p>PostgreSQL/MySQL</p>
+              <p>PostgreSQL</p>
             </div>
             <div className="flex align-middle items-center ">
               <GiThunderball />

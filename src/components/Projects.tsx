@@ -21,7 +21,7 @@ const Projects = () => {
             image="https://www.pngitem.com/pimgs/m/327-3274923_world-map-circle-png-transparent-png.png"
             imageAlt="CountriesApp"
             description="Find your favorite country and create activities for them"
-            link="https://pi-countries-main-topaz.vercel.app/"
+            link="https://pi-countries-main-two-pink.vercel.app/home"
           />
           <ProjectCard
             image="https://media.apollographql.com/media/avatar/graph/c3Rhci13YXJzLXN3YXBp/Star_Wars_avatar_400px.png?id=4c2a62ea-7c3c-42fd-995d-20c47aa5d826"
