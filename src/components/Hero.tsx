@@ -6,7 +6,7 @@ const Hero = () => {
           <div>
             <p className="text-PWhite">Hi, my name is </p>
             <h1 className="text-[40px] lg:text-[50px] xl:text-[70px]  font-bold text-PWhite">
-              Salvador Armanasco.
+              Salvador Armanasco Catalin
             </h1>
             <h1 className="text-[40px] lg:text-[50px] xl:text-[70px] font-bold  text-[#3ee95b]">
               Leveling Up Web Development

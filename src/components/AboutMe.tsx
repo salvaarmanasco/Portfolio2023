@@ -22,36 +22,36 @@ const AboutMe = () => {
               recently:
             </p>
             <div className="grid grid-cols-2 md:grid-cols-3 gap-8 mt-10">
-              <div className="flex align-middle items-center ">
-                <GiThunderball />
+              <div className="flex align-middle items-center gap-2">
+                <GiThunderball size={35} />
                 <p>Javascript</p>
               </div>
-              <div className="flex align-middle items-center ">
-                <GiThunderball />
+              <div className="flex align-middle items-center gap-2">
+                <GiThunderball size={35} />
                 <p>React</p>
               </div>
-              <div className="flex align-middle items-center">
-                <GiThunderball />
+              <div className="flex align-middle items-center gap-2">
+                <GiThunderball size={35} />
                 <p>Typescript</p>
               </div>
-              <div className="flex align-middle items-center">
-                <GiThunderball />
+              <div className="flex align-middle items-center gap-2">
+                <GiThunderball size={35} />
                 <p>Next</p>
               </div>
-              <div className="flex align-middle items-center ">
-                <GiThunderball />
+              <div className="flex align-middle items-center gap-2">
+                <GiThunderball size={35} />
                 <p>Node</p>
               </div>
-              <div className="flex align-middle items-center ">
-                <GiThunderball />
+              <div className="flex align-middle items-center gap-2">
+                <GiThunderball size={35} />
                 <p>PostgreSQL</p>
               </div>
-              <div className="flex align-middle items-center ">
-                <GiThunderball />
+              <div className="flex align-middle items-center gap-2">
+                <GiThunderball size={35} />
                 <p>Tailwind</p>
               </div>
-              <div className="flex align-middle items-center">
-                <GiThunderball />
+              <div className="flex align-middle items-center gap-2">
+                <GiThunderball size={35} />
                 <p>Astro</p>
               </div>
             </div>

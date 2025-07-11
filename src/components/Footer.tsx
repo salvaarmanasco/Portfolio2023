@@ -16,7 +16,7 @@ const Footer = () => {
       </div>
       <div>
         <p>salvador.armanasco@gmail.com</p>
-        <p>Copyright © 2023 - Salvador Armanasco</p>
+        <p>Copyright © 2025 - Salvador Armanasco Catalin</p>
       </div>
     </footer>
   );
